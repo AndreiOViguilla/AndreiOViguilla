@@ -28,4 +28,5 @@ CS undergraduate at **De La Salle University** (Software Technology) — buildin
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-dominic-viguilla-a5a55a325/)
 andrei.o.viguilla@gmail.com
