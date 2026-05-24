@@ -53,8 +53,7 @@ CS undergraduate at **De La Salle University** (Software Technology) — buildin
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreiOViguilla&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiOViguilla&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=AndreiOViguilla&theme=dark&hide_border=true)
 
 ---
 
